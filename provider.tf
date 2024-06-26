@@ -1,4 +1,4 @@
 provider "aws" {
-    region = "eu-west-1"
-    # profile = "yourProfileName" # Optional if using named profiles
+    region = "ap-south-1"
+    # profile = "wallmat_project" # Optional if using named profiles
 }
